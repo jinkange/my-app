@@ -2,9 +2,9 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
-import Footer from "./component/footer/Footer";
-import Herder from "./component/header/Herder";
-import Main from "./component/main/Main";
+// import Footer from "./component/footer/Footer";
+// import Header from "./component/header/Header";
+// import Main from "./component/main/Main";
 
 import reportWebVitals from "./reportWebVitals";
 
